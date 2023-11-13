@@ -1,0 +1,139 @@
+body{
+    width: 100vw;
+    height: 100vh;
+}
+
+#nav-main {
+    background-color: black;
+}
+
+#home {
+    color: #fff;
+    text-shadow: 0 0 3px #008cff,
+    0 0 10px #fff,
+    0 0 10px #008cff;
+}
+
+.future-buttons {
+    padding: 10px 20px;
+    text-transform: uppercase;
+    border: 1px solid black;
+    border-radius: 8px;
+    font-size: 17px;
+    font-weight: 500;
+    color: #008cff;
+    text-shadow: none;
+    background: transparent;
+    box-shadow: transparent;
+    /*border: 1px solid #008cff;*/
+    transition: 0.5s ease;
+    user-select: none;
+    margin-right: 20px;
+}
+
+.future-buttons:hover,:focus {
+    color: #ffffff;
+    background: #008cff;
+    border: 1px solid #008cff;
+    text-shadow: 0 0 5px #ffffff,
+    0 0 10px #ffffff,
+    0 0 20px #ffffff;
+    box-shadow: 0 0 5px #008cff,
+    0 0 20px #008cff,
+    0 0 50px #008cff,
+    0 0 100px #008cff;
+}
+
+
+.btn-snapshot {
+
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 0 0 3px #008cff,
+    0 0 10px #fff,
+    0 0 10px #008cff;
+}
+
+.section-bg {
+    background-color: #0c0c0c;
+    height: 757px;
+}
+
+.navbar-expand-lg .left-buttons,
+.navbar-expand-lg .right-buttons {
+    display: flex;
+    padding: 20px;
+    justify-content: space-around;
+}
+
+.txt-snapshot {
+    text-decoration: none;
+    color: #fff;
+    text-shadow: 0 0 3px #008cff,
+    0 0 10px #fff,
+    0 0 10px #008cff;
+}
+
+.txt-snapshot-blue {
+    text-decoration: none;
+    color: #008cff;
+    text-shadow: 0 0 3px #008cff,
+    0 0 10px #008cff,
+    0 0 10px #008cff;
+}
+
+.neumorphism-btn{
+    border-radius: 8px;
+    border: solid 0 transparent;
+    background: #0c0c0c;
+    box-shadow:  21px -21px 100px #101010,
+    -21px 21px 100px #111111;
+}
+
+.neumorphism-btn:hover,:focus {
+    border-radius: 8px;
+    border: solid 0 transparent;
+    background: #008cff;
+    box-shadow: 21px -21px 100px #0065b8,
+    -21px 21px 100px #00b3ff;
+
+
+}
+
+.neumorphism-btn-learn{
+    border-radius: 8px;
+    border: solid 0 transparent;
+    background: #0c0c0c;
+    box-shadow:  inset 21px -21px 100px #101010,
+    inset -21px 21px 100px #111111;
+}
+
+.neumorphism-btn-learn:hover,:focus {
+    border-radius: 8px;
+    border: solid 0 transparent;
+    background: #008cff;
+    box-shadow:21px -21px 100px #0065b8,
+    -21px 21px 100px #00b3ff;
+
+
+}
+
+.neumorphism-nav {
+    border-radius: 0;
+    border-bottom: 2px solid #20202078;
+    background: #0b0b0b;
+    box-shadow:  inset 21px -21px 100px #0e0e0e91,
+    inset -21px 21px 100px #1e1e1e9e;
+}
+
+.txt-spacing {
+    padding-top: 50px;
+}
+
+i {
+    background-color: transparent;
+}
+
+.future-buttons i {
+    background-color: transparent;
+}
