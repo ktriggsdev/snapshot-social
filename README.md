@@ -12,3 +12,5 @@
 **Updates in progress:** `NONE_CURRENTLY`
 
 **Updates Processed So Far:** `NONE_CURRENTLY`
+
+**Link to Live Project:** [link](https://snapshotsocial.netlify.app/)
